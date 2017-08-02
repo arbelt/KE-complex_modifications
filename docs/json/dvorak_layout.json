@@ -24,6 +24,14 @@
             {
               "key_code": "grave_accent_and_tilde"
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -45,6 +53,14 @@
           "to": [
             {
               "key_code": "1"
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
             }
           ]
         },
@@ -68,6 +84,14 @@
             {
               "key_code": "2"
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -89,6 +113,14 @@
           "to": [
             {
               "key_code": "4"
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
             }
           ]
         },
@@ -112,6 +144,14 @@
             {
               "key_code": "5"
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -133,6 +173,14 @@
           "to": [
             {
               "key_code": "6"
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
             }
           ]
         },
@@ -156,6 +204,14 @@
             {
               "key_code": "7"
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -178,6 +234,14 @@
             {
               "key_code": "8"
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -198,7 +262,15 @@
           },
           "to": [
             {
-              "key_code": "8"
+              "key_code": "9"
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
             }
           ]
         },
@@ -220,7 +292,15 @@
           },
           "to": [
             {
-              "key_code": "9"
+              "key_code": "0"
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
             }
           ]
         },
@@ -244,6 +324,14 @@
             {
               "key_code": "open_bracket"
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -265,6 +353,14 @@
           "to": [
             {
               "key_code": "close_bracket"
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
             }
           ]
         },
@@ -288,6 +384,14 @@
             {
               "key_code": "quote"
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -309,6 +413,14 @@
           "to": [
             {
               "key_code": "comma"
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
             }
           ]
         },
@@ -332,6 +444,14 @@
             {
               "key_code": "period"
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -353,6 +473,14 @@
           "to": [
             {
               "key_code": "p"
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
             }
           ]
         },
@@ -376,6 +504,14 @@
             {
               "key_code": "y"
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -397,6 +533,14 @@
           "to": [
             {
               "key_code": "f"
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
             }
           ]
         },
@@ -420,6 +564,14 @@
             {
               "key_code": "g"
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -441,6 +593,14 @@
           "to": [
             {
               "key_code": "c"
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
             }
           ]
         },
@@ -464,6 +624,14 @@
             {
               "key_code": "r"
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -485,6 +653,14 @@
           "to": [
             {
               "key_code": "l"
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
             }
           ]
         },
@@ -508,6 +684,14 @@
             {
               "key_code": "slash"
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -529,6 +713,14 @@
           "to": [
             {
               "key_code": "equal_sign"
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
             }
           ]
         },
@@ -552,6 +744,14 @@
             {
               "key_code": "backslash"
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -573,6 +773,14 @@
           "to": [
             {
               "key_code": "a"
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
             }
           ]
         },
@@ -596,6 +804,14 @@
             {
               "key_code": "o"
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -617,6 +833,14 @@
           "to": [
             {
               "key_code": "e"
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
             }
           ]
         },
@@ -640,6 +864,14 @@
             {
               "key_code": "u"
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -661,6 +893,14 @@
           "to": [
             {
               "key_code": "i"
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
             }
           ]
         },
@@ -684,6 +924,14 @@
             {
               "key_code": "d"
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -705,6 +953,14 @@
           "to": [
             {
               "key_code": "h"
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
             }
           ]
         },
@@ -728,6 +984,14 @@
             {
               "key_code": "t"
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -749,6 +1013,14 @@
           "to": [
             {
               "key_code": "n"
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
             }
           ]
         },
@@ -772,6 +1044,14 @@
             {
               "key_code": "s"
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -793,6 +1073,14 @@
           "to": [
             {
               "key_code": "hyphen"
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
             }
           ]
         },
@@ -816,6 +1104,14 @@
             {
               "key_code": "semicolon"
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -837,6 +1133,14 @@
           "to": [
             {
               "key_code": "q"
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
             }
           ]
         },
@@ -860,6 +1164,14 @@
             {
               "key_code": "j"
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -881,6 +1193,14 @@
           "to": [
             {
               "key_code": "k"
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
             }
           ]
         },
@@ -904,6 +1224,14 @@
             {
               "key_code": "x"
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -925,6 +1253,14 @@
           "to": [
             {
               "key_code": "b"
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
             }
           ]
         },
@@ -948,6 +1284,14 @@
             {
               "key_code": "m"
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -969,6 +1313,14 @@
           "to": [
             {
               "key_code": "w"
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
             }
           ]
         },
@@ -992,6 +1344,14 @@
             {
               "key_code": "v"
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -1014,6 +1374,14 @@
             {
               "key_code": "z"
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -1040,6 +1408,14 @@
               "key_code": "grave_accent_and_tilde",
               "modifiers": [
                 "left_shift"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
               ]
             }
           ]
@@ -1070,6 +1446,14 @@
                 "left_shift"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -1096,6 +1480,14 @@
               "key_code": "2",
               "modifiers": [
                 "left_shift"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
               ]
             }
           ]
@@ -1126,6 +1518,14 @@
                 "left_shift"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -1152,6 +1552,14 @@
               "key_code": "5",
               "modifiers": [
                 "left_shift"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
               ]
             }
           ]
@@ -1182,6 +1590,14 @@
                 "left_shift"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -1208,6 +1624,14 @@
               "key_code": "7",
               "modifiers": [
                 "left_shift"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
               ]
             }
           ]
@@ -1238,6 +1662,14 @@
                 "left_shift"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -1261,9 +1693,17 @@
           },
           "to": [
             {
-              "key_code": "8",
+              "key_code": "9",
               "modifiers": [
                 "left_shift"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
               ]
             }
           ]
@@ -1289,9 +1729,17 @@
           },
           "to": [
             {
-              "key_code": "9",
+              "key_code": "0",
               "modifiers": [
                 "left_shift"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
               ]
             }
           ]
@@ -1322,6 +1770,14 @@
                 "left_shift"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -1348,6 +1804,14 @@
               "key_code": "close_bracket",
               "modifiers": [
                 "left_shift"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
               ]
             }
           ]
@@ -1378,6 +1842,14 @@
                 "left_shift"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -1404,6 +1876,14 @@
               "key_code": "comma",
               "modifiers": [
                 "left_shift"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
               ]
             }
           ]
@@ -1434,6 +1914,14 @@
                 "left_shift"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -1460,6 +1948,14 @@
               "key_code": "p",
               "modifiers": [
                 "left_shift"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
               ]
             }
           ]
@@ -1490,6 +1986,14 @@
                 "left_shift"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -1516,6 +2020,14 @@
               "key_code": "f",
               "modifiers": [
                 "left_shift"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
               ]
             }
           ]
@@ -1546,6 +2058,14 @@
                 "left_shift"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -1572,6 +2092,14 @@
               "key_code": "c",
               "modifiers": [
                 "left_shift"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
               ]
             }
           ]
@@ -1602,6 +2130,14 @@
                 "left_shift"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -1628,6 +2164,14 @@
               "key_code": "l",
               "modifiers": [
                 "left_shift"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
               ]
             }
           ]
@@ -1658,6 +2202,14 @@
                 "left_shift"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -1684,6 +2236,14 @@
               "key_code": "equal_sign",
               "modifiers": [
                 "left_shift"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
               ]
             }
           ]
@@ -1714,6 +2274,14 @@
                 "left_shift"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -1740,6 +2308,14 @@
               "key_code": "a",
               "modifiers": [
                 "left_shift"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
               ]
             }
           ]
@@ -1770,6 +2346,14 @@
                 "left_shift"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -1796,6 +2380,14 @@
               "key_code": "e",
               "modifiers": [
                 "left_shift"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
               ]
             }
           ]
@@ -1826,6 +2418,14 @@
                 "left_shift"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -1852,6 +2452,14 @@
               "key_code": "i",
               "modifiers": [
                 "left_shift"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
               ]
             }
           ]
@@ -1882,6 +2490,14 @@
                 "left_shift"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -1908,6 +2524,14 @@
               "key_code": "h",
               "modifiers": [
                 "left_shift"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
               ]
             }
           ]
@@ -1938,6 +2562,14 @@
                 "left_shift"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -1964,6 +2596,14 @@
               "key_code": "n",
               "modifiers": [
                 "left_shift"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
               ]
             }
           ]
@@ -1994,6 +2634,14 @@
                 "left_shift"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -2020,6 +2668,14 @@
               "key_code": "hyphen",
               "modifiers": [
                 "left_shift"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
               ]
             }
           ]
@@ -2050,6 +2706,14 @@
                 "left_shift"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -2076,6 +2740,14 @@
               "key_code": "q",
               "modifiers": [
                 "left_shift"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
               ]
             }
           ]
@@ -2106,6 +2778,14 @@
                 "left_shift"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -2132,6 +2812,14 @@
               "key_code": "k",
               "modifiers": [
                 "left_shift"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
               ]
             }
           ]
@@ -2162,6 +2850,14 @@
                 "left_shift"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -2188,6 +2884,14 @@
               "key_code": "b",
               "modifiers": [
                 "left_shift"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
               ]
             }
           ]
@@ -2218,6 +2922,14 @@
                 "left_shift"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -2244,6 +2956,14 @@
               "key_code": "w",
               "modifiers": [
                 "left_shift"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
               ]
             }
           ]
@@ -2274,6 +2994,14 @@
                 "left_shift"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -2300,6 +3028,14 @@
               "key_code": "z",
               "modifiers": [
                 "left_shift"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
               ]
             }
           ]
@@ -2330,6 +3066,14 @@
                 "right_shift"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -2356,6 +3100,14 @@
               "key_code": "1",
               "modifiers": [
                 "right_shift"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
               ]
             }
           ]
@@ -2386,6 +3138,14 @@
                 "right_shift"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -2412,6 +3172,14 @@
               "key_code": "4",
               "modifiers": [
                 "right_shift"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
               ]
             }
           ]
@@ -2442,6 +3210,14 @@
                 "right_shift"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -2468,6 +3244,14 @@
               "key_code": "6",
               "modifiers": [
                 "right_shift"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
               ]
             }
           ]
@@ -2498,6 +3282,14 @@
                 "right_shift"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -2526,6 +3318,14 @@
                 "right_shift"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -2549,9 +3349,17 @@
           },
           "to": [
             {
-              "key_code": "8",
+              "key_code": "9",
               "modifiers": [
                 "right_shift"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
               ]
             }
           ]
@@ -2577,9 +3385,17 @@
           },
           "to": [
             {
-              "key_code": "9",
+              "key_code": "0",
               "modifiers": [
                 "right_shift"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
               ]
             }
           ]
@@ -2610,6 +3426,14 @@
                 "right_shift"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -2636,6 +3460,14 @@
               "key_code": "close_bracket",
               "modifiers": [
                 "right_shift"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
               ]
             }
           ]
@@ -2666,6 +3498,14 @@
                 "right_shift"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -2692,6 +3532,14 @@
               "key_code": "comma",
               "modifiers": [
                 "right_shift"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
               ]
             }
           ]
@@ -2722,6 +3570,14 @@
                 "right_shift"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -2748,6 +3604,14 @@
               "key_code": "p",
               "modifiers": [
                 "right_shift"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
               ]
             }
           ]
@@ -2778,6 +3642,14 @@
                 "right_shift"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -2804,6 +3676,14 @@
               "key_code": "f",
               "modifiers": [
                 "right_shift"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
               ]
             }
           ]
@@ -2834,6 +3714,14 @@
                 "right_shift"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -2860,6 +3748,14 @@
               "key_code": "c",
               "modifiers": [
                 "right_shift"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
               ]
             }
           ]
@@ -2890,6 +3786,14 @@
                 "right_shift"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -2916,6 +3820,14 @@
               "key_code": "l",
               "modifiers": [
                 "right_shift"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
               ]
             }
           ]
@@ -2946,6 +3858,14 @@
                 "right_shift"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -2972,6 +3892,14 @@
               "key_code": "equal_sign",
               "modifiers": [
                 "right_shift"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
               ]
             }
           ]
@@ -3002,6 +3930,14 @@
                 "right_shift"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -3028,6 +3964,14 @@
               "key_code": "a",
               "modifiers": [
                 "right_shift"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
               ]
             }
           ]
@@ -3058,6 +4002,14 @@
                 "right_shift"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -3084,6 +4036,14 @@
               "key_code": "e",
               "modifiers": [
                 "right_shift"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
               ]
             }
           ]
@@ -3114,6 +4074,14 @@
                 "right_shift"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -3140,6 +4108,14 @@
               "key_code": "i",
               "modifiers": [
                 "right_shift"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
               ]
             }
           ]
@@ -3170,6 +4146,14 @@
                 "right_shift"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -3196,6 +4180,14 @@
               "key_code": "h",
               "modifiers": [
                 "right_shift"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
               ]
             }
           ]
@@ -3226,6 +4218,14 @@
                 "right_shift"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -3252,6 +4252,14 @@
               "key_code": "n",
               "modifiers": [
                 "right_shift"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
               ]
             }
           ]
@@ -3282,6 +4290,14 @@
                 "right_shift"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -3308,6 +4324,14 @@
               "key_code": "hyphen",
               "modifiers": [
                 "right_shift"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
               ]
             }
           ]
@@ -3338,6 +4362,14 @@
                 "right_shift"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -3364,6 +4396,14 @@
               "key_code": "q",
               "modifiers": [
                 "right_shift"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
               ]
             }
           ]
@@ -3394,6 +4434,14 @@
                 "right_shift"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -3420,6 +4468,14 @@
               "key_code": "k",
               "modifiers": [
                 "right_shift"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
               ]
             }
           ]
@@ -3450,6 +4506,14 @@
                 "right_shift"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -3476,6 +4540,14 @@
               "key_code": "b",
               "modifiers": [
                 "right_shift"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
               ]
             }
           ]
@@ -3506,6 +4578,14 @@
                 "right_shift"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -3532,6 +4612,14 @@
               "key_code": "w",
               "modifiers": [
                 "right_shift"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
               ]
             }
           ]
@@ -3562,6 +4650,14 @@
                 "right_shift"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
+              ]
+            }
           ]
         },
         {
@@ -3588,6 +4684,14 @@
               "key_code": "z",
               "modifiers": [
                 "right_shift"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com.blizzard.heroesofthestorm$"
               ]
             }
           ]
