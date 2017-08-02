@@ -13,6 +13,12 @@
 			"a","o","e","u","i","d","h","t","n","s","hyphen",
 			"semicolon","q","j","k","x","b","m","w","v","z",
         ]
+        conditions = [
+            {
+                "type" => "frontmost_application_unless",
+                "bundle_identifiers" => ["^com\.blizzard\.heroesofthestorm$"]
+            }
+        ]
         manipulators = _each_key(
             remap_source_keys, 	# source_keys_list
             remap_dest_keys,	# dest_keyslist
@@ -21,7 +27,7 @@
             [],                 # to_pre_events
             [],                 # to_modifiers
             [],                 # to_post_events
-            []                  # conditions
+            conditions                  # conditions
         )
         manipulators += _each_key(
             remap_source_keys, 	# source_keys_list
@@ -31,7 +37,7 @@
             [],                 # to_pre_events
             ["left_shift"],     # to_modifiers
             [],                 # to_post_events
-            []                  # conditions
+            conditions                  # conditions
         )
         manipulators += _each_key(
             remap_source_keys, 	# source_keys_list
@@ -41,7 +47,7 @@
             [],                 # to_pre_events
             ["right_shift"],    # to_modifiers
             [],                 # to_post_events
-            []                  # conditions
+            conditions                  # conditions
         )
     %>
     "title": "Dvorak Keyboard",
